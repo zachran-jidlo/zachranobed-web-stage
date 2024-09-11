@@ -122187,7 +122187,7 @@ i.toString
 if(n.c==="invalid-email"){m=o.c
 m.toString
 A.Y(m,B.k,t.J).toString
-m="Emailov\xe1 adresa je ve \u0161patn\xe9m form\xe1tu."}else{m=n.c
+m="Zadali jste neplatnou e-mailovou adresu."}else{m=n.c
 k=t.J
 j=o.c
 if(m==="user-not-found"){j.toString
