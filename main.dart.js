@@ -116237,15 +116237,15 @@ return"Nen\xed vybran\xfd typ krabi\u010dky."}return null},
 $S:702}
 A.aqn.prototype={
 $1(a){if(!(a!=null&&A.lV(a,null)!=null)){A.J(this.a,B.f,t.J).toString
-return"Vyberte po\u010det krabi\u010dek."}return null},
+return"Zadejte po\u010det krabi\u010dek."}return null},
 $S:31}
 A.aqm.prototype={
 $1(a){if(a==null||a<=0){A.J(this.a,B.f,t.J).toString
-return"Vyberte po\u010det krabi\u010dek."}return null},
+return"Zadejte po\u010det krabi\u010dek."}return null},
 $S:144}
 A.aqA.prototype={
 $1(a){if(a==null||a<=0){A.J(this.a,B.f,t.J).toString
-return"Vyberte po\u010det porc\xed."}return null},
+return"Zadejte po\u010det porc\xed."}return null},
 $S:144}
 A.aqq.prototype={
 $1(a){var s
